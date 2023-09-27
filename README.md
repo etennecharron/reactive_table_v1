@@ -6,3 +6,9 @@ il y aurais une table en pleins milieux de l'espace réserver a notre porjet qui
 Personne nécessaire pour faire fonctionner l'oeuvre : 1
 
 ### Conception dans le petit studio
+#### matériel
+- 4 haut-parleurs
+- 3 projecteur
+- table rectangulaire
+
+![plan du projet dans le petit studio](images/petit_studio.drawio.png)
