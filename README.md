@@ -36,6 +36,8 @@ Une table de billard serais idéal pour la réalisation de la table étant donne
 ### Détection d'image
 L'idée de détection d'image est expliqué par [Jacob](https://externalsip.github.io/rechercheProjetFinalRepo)
 
+Il faudrais trouver une façon de pouvoir détecter la position de l'objet sur la table réactive pour pouvoir permettre la possibilité de faire les sons plus aigus ou plus grave.
+
 
 
 
