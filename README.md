@@ -17,5 +17,8 @@ Les trois projecteurs seraient accroché au plafond
 
 ### Problèmes
 
-probleme avec les projecteurs #1 : si il n'y a pas trois murs autours de la table on ne peut pas 
- 
+problèmes avec les projecteurs #1 : si il n'y a pas trois murs autours de la table on ne peut pas.
+problèmes avec les projecteurs #2 : si il y a rien pour attacher les projecteur au plafonds y faudrais potentiellement acrocher le projecteur a la table et je trouve que ça brise un coté cool de l'interaction qui est de se prommener autours de la table.
+
+ obs studio
+ mad mapper
