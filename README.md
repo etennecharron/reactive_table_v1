@@ -16,8 +16,6 @@ Les gens qui viennent experimenter l'installation sont invité a venir placer et
 
 ![plan du projet dans le petit studio](images/plan_projet.drawio.png)
 
-Les trois projecteurs seraient accroché au plafond  
-
 ### Problèmes
 
 Le problème est dificilement réalisable à l'exterieur à cause de la table et de la température imprévisible.
