@@ -37,6 +37,11 @@ Il faudrais trouver une façon de pouvoir détecter la position de l'objet sur l
 
 Inspiration de l'oeuvre des 3e année 2023 [LUMASOL](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html).
 
+les lumière réagirais au son produits par l'intéracteur qui utilise la table réactive.
+
+-  augmentation de la lumière si toutes les objets de détections sont présent sur la table.
+-  la lumière réacterais a l'intensité du son.
+
 
 
 
