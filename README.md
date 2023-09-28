@@ -33,6 +33,10 @@ L'idée de détection d'image est expliqué par [Jacob](https://externalsip.gith
 
 Il faudrais trouver une façon de pouvoir détecter la position de l'objet sur la table réactive pour pouvoir permettre la possibilité de faire les sons plus aigus ou plus grave.
 
+### Lumière
+
+Inspiration de l'oeuvre des 3e année 2023 [LUMASOL](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html).
+
 
 
 
