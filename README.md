@@ -12,3 +12,6 @@ Personne nécessaire pour faire fonctionner l'oeuvre : 1
 - table rectangulaire
 
 ![plan du projet dans le petit studio](images/plan_projet.drawio.png)
+
+Les trois projecteurs seraient accroché au plafond  
+ 
