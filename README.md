@@ -3,7 +3,7 @@
 
 Les gens qui viennent experimenter l'installation sont invité a venir placer et bouger des objects de détection prédéfinis sur une table rectengulaire qui va ensuite activé des sons (mélodis/beat) pour crée un genre de musique de style drone autours d'eux. dépendamment quelle object de détection est utiliser, un son diférent sera généré et dépendamment si l'utilisateur place l'object haut ou bas sur la table, le son sera plus aigus ou plus grave.
 
-### inspiration
+### inspirations
 - [Incredibox](https://www.incredibox.com/fr/) : [video exemple](https://www.youtube.com/watch?v=kjOJ1a_HrZs)
 - [My Singing Monsters](https://www.bigbluebubble.com/home/games/my-singing-monsters-series/my-singing-monsters/) : [video exemple](https://www.youtube.com/watch?v=KqreWm5ZpHw)
 
