@@ -27,7 +27,7 @@ Problème avec le projet en general : le projet est dificilement réalisable à 
 
 ![image d'une table de billard](images/tablle_billard.png)
 
-Une table de billard serais idéal pour la réalisation de la table étant donner qu'il y a un creu a l'intérieur qui pourrais nous permettre de placer une caméra pour la détection de l'objet a partire d'une image.
+Une table de billard serais idéal pour la réalisation de la table étant donner qu'il y a un creu a l'intérieur qui pourrais nous permettre de placer une caméra pour la détection de l'objet a partire d'une image. Une plaque de plastique acrylique pourrais séparer l'objet de détection et le creu de table de billare où il y aurrais la caméra
 
 
  obs studio
