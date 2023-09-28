@@ -25,6 +25,8 @@ Problème avec le projet en general : le projet est dificilement réalisable à 
 
 ### Table
 
+![image d'une table de billard](images/tablle_billard.png)
+
 
 
 
