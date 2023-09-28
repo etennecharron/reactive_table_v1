@@ -10,7 +10,7 @@ Les gens qui viennent experimenter l'installation sont invité a venir placer et
 
 ## Conception
 ### matériel
-- 4 haut-parleur (ou plus, c'est jay qui s'en occupe 😎👍)
+- 4 haut-parleur (ou plus, c'est ![Jérémy](https://jayiscooler.github.io/Projet_table_interactive/#/) qui s'en occupe 😎👍)
 - 3 projecteur
 - table rectangulaire
 - Personne nécessaire pour faire fonctionner l'oeuvre : 1
