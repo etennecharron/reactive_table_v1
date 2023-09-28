@@ -5,7 +5,7 @@ il y aurais une table en pleins milieux de l'espace réserver a notre porjet qui
 
 Personne nécessaire pour faire fonctionner l'oeuvre : 1
 
-### Conception dans le petit studio
+### Conception
 #### matériel
 - 4 haut-parleurs
 - 3 projecteur
@@ -14,4 +14,8 @@ Personne nécessaire pour faire fonctionner l'oeuvre : 1
 ![plan du projet dans le petit studio](images/plan_projet.drawio.png)
 
 Les trois projecteurs seraient accroché au plafond  
+
+### Problèmes
+
+probleme avec les projecteurs #1 : si il n'y a pas trois murs autours de la table on ne peut pas 
  
