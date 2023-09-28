@@ -11,7 +11,6 @@ Les gens qui viennent experimenter l'installation sont invité a venir placer et
 ## Conception
 ### matériel
 - 4 haut-parleur (ou plus, c'est [Jérémy](https://jayiscooler.github.io/Projet_table_interactive/#/) qui s'en occupe 😎👍)
-- 3 projecteur
 - table rectangulaire
 - Personne nécessaire pour faire fonctionner l'oeuvre : 1
 
@@ -21,9 +20,7 @@ Les trois projecteurs seraient accroché au plafond
 
 ### Problèmes
 
-problèmes avec les projecteurs #1 : si il n'y a pas trois murs autours de la table on ne peut pas.
-
-problèmes avec les projecteurs #2 : si il y a rien pour attacher les projecteur au plafonds y faudrais potentiellement acrocher le projecteur a la table et je trouve que ça brise un coté cool de l'interaction qui est de se prommener autours de la table.
+Le problème est dificilement réalisable à l'exterieur à cause de la table et de la température imprévisible.
 
 Problème avec le projet en general : le projet est dificilement réalisable à l'exterieur.
 
