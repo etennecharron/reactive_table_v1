@@ -21,5 +21,9 @@ problèmes avec les projecteurs #1 : si il n'y a pas trois murs autours de la ta
 
 problèmes avec les projecteurs #2 : si il y a rien pour attacher les projecteur au plafonds y faudrais potentiellement acrocher le projecteur a la table et je trouve que ça brise un coté cool de l'interaction qui est de se prommener autours de la table.
 
+Problème avec le projet en general : le projet est dificilement réalisable à l'exterieur.
+
+
+
  obs studio
  mad mapper
