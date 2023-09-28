@@ -14,7 +14,7 @@ Les gens qui viennent experimenter l'installation sont invité a venir placer et
 - table rectangulaire
 - Personne nécessaire pour faire fonctionner l'oeuvre : 1
 
-![plan du projet dans le petit studio](images/plan_projet.drawio.png)
+![plan du projet dans le petit studio](images/plan_petit_studio.png)
 
 ### Problèmes
 
