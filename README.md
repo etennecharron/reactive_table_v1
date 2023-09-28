@@ -1,7 +1,7 @@
 # 🔥🔥🔥✨✨ Projet de table réactive ✨✨🔥🔥🔥
 ## idée Général
 
-Les gens qui viennent experimenter l'installation sont invité a venir placer et bouger des objects de détection prédéfinis sur une table rectengulaire qui va ensuite activé des sons (mélodis/beat) pour crée un genre de musique de style drone autours d'eux. dépendamment quelle object de détection est utiliser, un son diférent sera généré et dépendamment si l'utilisateur place l'object haut ou bas sur la table, le son sera plus aigus ou plus grave.
+Les gens qui viennent experimenter l'installation sont invité a venir placer et bouger des objects de détection prédéfinis sur une table rectengulaire qui va ensuite activé des sons (mélodis/beat) pour crée un genre de musique de style drone autours d'eux. dépendamment quelle object de détection est utiliser, un son diférent sera généré et dépendamment si l'utilisateur place l'object haut ou bas sur la table, le son sera plus aigus ou plus grave. De plus, il y aurais des projections sur les murs en liens avec l'intensité du sons de la musique.
 
 ### inspirations
 - [Incredibox](https://www.incredibox.com/fr/) : [video exemple](https://www.youtube.com/watch?v=kjOJ1a_HrZs)
@@ -35,6 +35,8 @@ Une table de billard serais idéal pour la réalisation de la table étant donne
 
 ### Détection d'image
 L'idée de détection d'image est expliquer par [Jacob](https://externalsip.github.io/rechercheProjetFinalRepo)
+
+
 
 
 
