@@ -7,7 +7,7 @@ Personne nécessaire pour faire fonctionner l'oeuvre : 1
 
 ### Conception
 #### matériel
-- 4 haut-parleurs
+- 4 haut-parleur (ou plus, c'est jay qui s'en occupe 😎👍)
 - 3 projecteur
 - table rectangulaire
 
