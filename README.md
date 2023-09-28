@@ -1,15 +1,19 @@
 # 🔥🔥🔥✨✨ Projet de table réactive ✨✨🔥🔥🔥
+## idée Général
 
-## Concept
-il y aurais une table en pleins milieux de l'espace réserver a notre porjet qui lorsque les invité intéragisse avec la table en question projeterais des images sur les murs présent autours de l'oeuvre en même temps de jouer des sons.
+Les gens qui viennent experiment la pièce sont invité a venir placer et bouger des objects de détection prédéfinis sur une table rectengulaire qui va ensuite activé des sons (mélodis/beat) pour crée un genre de musique de style drone autours d'eux. dépendamment quelle object de détection est utiliser, un son diférent sera généré et dépendamment si l'utilisateur place l'object haut ou bas sur la table, le son sera plus aigus ou plus grave.
 
-Personne nécessaire pour faire fonctionner l'oeuvre : 1
+### inspiration
+- [incredibox](https://www.incredibox.com/fr/) : [video exemple](https://www.youtube.com/watch?v=kjOJ1a_HrZs)
 
-### Conception
-#### matériel
+
+
+## Conception
+### matériel
 - 4 haut-parleur (ou plus, c'est jay qui s'en occupe 😎👍)
 - 3 projecteur
 - table rectangulaire
+- Personne nécessaire pour faire fonctionner l'oeuvre : 1
 
 ![plan du projet dans le petit studio](images/plan_projet.drawio.png)
 
@@ -32,9 +36,6 @@ Une table de billard serais idéal pour la réalisation de la table étant donne
 ### Détection d'image
 L'idée de détection d'image est expliquer par [Jacob](https://externalsip.github.io/rechercheProjetFinalRepo)
 
-### Projection
 
-#### Applications 
-- OBS studio
-- Mad Mapper
+
 
