@@ -32,6 +32,9 @@ Une table de billard serais idéal pour la réalisation de la table étant donne
 ### Détection d'image
 L'idée de détection d'image est expliquer par [Jacob](https://externalsip.github.io/rechercheProjetFinalRepo)
 
+### Projection
 
- obs studio
- mad mapper
+#### Applications 
+- OBS studio
+- Mad Mapper
+
