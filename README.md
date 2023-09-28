@@ -16,11 +16,11 @@ Les gens qui viennent experimenter l'installation sont invité a venir placer et
 
 ![plan du projet dans le petit studio](images/plan_petit_studio.png)
 
-### Problèmes
+### Problèmes et défis
 
-Le problème est dificilement réalisable à l'exterieur à cause de la table et de la température imprévisible.
+ problème 1: Le problème est dificilement réalisable à l'exterieur à cause de la table et de la température imprévisible.
 
-Problème avec le projet en general : le projet est dificilement réalisable à l'exterieur.
+ défis 1: réussire à détecter la position de l'objet de détection sur la table pour réaliser les sons aigus et graves.
 
 ### Création table
 
